@@ -16,16 +16,19 @@ Edit config.mk then run:
 
     make clean install
 
+Added patches ✔
+----------------
+* Mouse wheel scroll support 🖱
+* Compatibility with Xresources ❎
+* Compatibility with system clipboard ✂
+* Adjustable alpha channel for maximum rice 🍚
+* Fontconfig default mono font usage 📜
+
 Future plans
 ------------
-* Mouse wheel scroll support
-* Compatibility with system clipboard
-* Compatibility with Xresources
-* Adjustable alpha channel for maximum rice 🍚
 * Mouse wheel enabled zooming support
-* IBM Plex Mono font and emoji support 🌟
 
 Credits
 -------
-The Suckless team (https://suckless.org/) for their awesome work on awesome software 🏅
+The suckless team (https://suckless.org/) for their work on rocking software 🏅
 
